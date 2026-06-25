@@ -4,9 +4,9 @@ Repositori ini memuat proyek implementasi **Sistem Manajemen Toko Buku Digital**
 ---
 
 ## 👥 Anggota TIM
-1. **Fadjar Wicaksono** - [202333500755]
-2. **Muhamad Faizal Ardiansyah** - [202333500728] - GitHub: [@mfzlrdi](https://github.com/mfzlrdi)
-3. **Maekel Mahdi Firman Gani** - [202333500714]
+1. **Fadjar Wicaksono** : [202333500755]
+2. **Muhamad Faizal Ardiansyah** : [202333500728] - GitHub: [@mfzlrdi](https://github.com/mfzlrdi)
+3. **Maekel Mahdi Firman Gani** : [202333500714]
 
 ---
 
